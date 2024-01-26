@@ -1,1 +1,2 @@
-# Thread_JAVA
+# Threads
+Practicing threads in JAVA.
